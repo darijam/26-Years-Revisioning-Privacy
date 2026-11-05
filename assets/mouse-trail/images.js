@@ -1,0 +1,16 @@
+window.mouseTrailImages = [
+  "assets/mouse-trail/1997.webp",
+  "assets/mouse-trail/googles-new-logo.gif",
+  "assets/mouse-trail/image-01.png",
+  "assets/mouse-trail/image-02.png",
+  "assets/mouse-trail/image-05.png",
+  "assets/mouse-trail/image-06.png",
+  "assets/mouse-trail/image-07.png",
+  "assets/mouse-trail/image-08.png",
+  "assets/mouse-trail/image-09.png",
+  "assets/mouse-trail/image-10.webp",
+  "assets/mouse-trail/image-11.png",
+  "assets/mouse-trail/image-12.png",
+  "assets/mouse-trail/image-13.png",
+  "assets/mouse-trail/image-14.webp",
+];

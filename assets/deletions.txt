@@ -1,0 +1,2497 @@
+GOOGLE PRIVACY POLICY — DELETED TEXT BY VERSION
+===============================================================================
+Source: Google Privacy Policy archive (English, en-US)
+Archive index: https://policies.google.com/privacy/archive?hl=en-US
+Scope: 52 versions / 51 adjacent-version transitions, June 9, 1999–October 16, 2026
+Comparison: each version against its immediate predecessor
+Diff granularity: paragraph alignment, refined to word/phrase level for rewritten blocks
+Unchanged context is omitted. Exact moved fragments are cancelled when detected.
+Effective/last-updated date lines are EXCLUDED as version metadata.
+
+===============================================================================
+VERSION: June 9, 1999 (19990609)
+PREVIOUS VERSION: none (baseline)
+SOURCE: https://policies.google.com/privacy/archive/19990609?hl=en-US
+NOTE: Baseline only. No predecessor exists, so there is no deleted text.
+
+===============================================================================
+VERSION: September 20, 1999 (19990920)
+PREVIOUS VERSION: June 9, 1999 (19990609)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/19990920?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/19990609-19990920?hl=en-US
+CHANGE FRAGMENTS: 31
+
+[001] Privacy Google is sensitive to the privacy concerns of its users. The Internet allows individuals to explore and communicate with unprecedented ease, but it also allows websites to collect and distribute personal information with equal ease. We at Google know that many users are, understandably, concerned about such practices, and we wish to make clear our policy for collecting and using personal information. Google’s Policy Google’s policy on our wholly controlled and operated Internet sites is to respect and protect
+
+[002] our users
+
+[003] Google does not willfully disclose individually
+
+[004] its customers
+
+[005] that customer’s
+
+[006] This policy statement tells you how we collect information from you and how we use it. Google may share information about users with advertisers, business partners, sponsors, and other third parties. However, we only talk about our users in aggregate, not as individuals. For example, we may disclose how frequently the average Google user visits Google, or which other query words are most often used with the query word “Microsoft.” From time to time, there may be situations where Google asks you for personal information. When we intend to use your personal information, we tell you up front. This way you can decide whether you want to give us the information or not. In case you change your mind or some personal information changes, we will endeavor to provide a way to correct, update or remove the personal data you give us.
+
+[007] It can
+
+[008] personal
+
+[009] and user data
+
+[010] individual who
+
+[011] Google uses cookies to track user trends and patterns, in order to better understand our user base and to improve the quality of our service. Google may also choose to use cookies to store user preferences.
+
+[012] However
+
+[013] note
+
+[014] page that comes up after “clicking” on a result URL is likely
+
+[015] be outside the
+
+[016] site and beyond our
+
+[017] is used
+
+[018] whenever
+
+[019] “
+
+[020] ”
+
+[021] “
+
+[022] ”
+
+[023] which then
+
+[024] Google’s
+
+[025] does not extend
+
+[026] anything
+
+[027] is inherent in the operation
+
+[028] Internet
+
+[029] therefore beyond Google’s control, and is not
+
+[030] be applied in any manner contrary to applicable law or governmental regulation. We reserve the right at our discretion to make changes to this policy at
+
+[031] Please check this page periodically for changes
+
+===============================================================================
+VERSION: January 4, 2001 (20010104)
+PREVIOUS VERSION: September 20, 1999 (19990920)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20010104?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/19990920-20010104?hl=en-US
+CHANGE FRAGMENTS: 8
+
+[001] to
+
+[002] file
+
+[003] track user trends and patterns to better understand our user base and to
+
+[004] may also choose to use
+
+[005] store user preferences
+
+[006] A cookie can tell us, “This is the same computer that visited Google two days ago,” but it cannot tell us, “This person is Joe Smith” or even, “This person lives in the United States.”
+
+[007] From time to time we may request that you provide us with certain personal information about you in connection with various services offered on our site.
+
+[008] personal
+
+===============================================================================
+VERSION: July 1, 2004 (20040701)
+PREVIOUS VERSION: January 4, 2001 (20010104)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20040701?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20010104-20040701?hl=en-US
+CHANGE FRAGMENTS: 57
+
+[001] respects
+
+[002] protects
+
+[003] individuals
+
+[004] use Google’s
+
+[005] engine
+
+[006] (“Google Search Services”). Individually identifiable
+
+[007] about you is not willfully disclosed to any third party without first receiving your permission, as explained in this privacy policy (“Privacy Policy”)
+
+[008] Google sends
+
+[009] A cookie is a piece of data that identifies you as a unique user. Google uses
+
+[010] our user base more
+
+[011] . Google will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order
+
+[012] Be aware
+
+[013] however, that
+
+[014] parts of the
+
+[015] Search Service
+
+[016] if you refuse
+
+[017] What
+
+[018] Do
+
+[019] Collect? Google does
+
+[020] collect
+
+[021] unique information about you (such as
+
+[022] name, email address, etc
+
+[023] ) except when you specifically and knowingly
+
+[024] notes
+
+[025] saves
+
+[026] time of day
+
+[027] browser type, browser language, and IP address with each query. That
+
+[028] used
+
+[029] verify
+
+[030] records
+
+[031] to provide more relevant
+
+[032] to users
+
+[033] example
+
+[034] Google may use your IP address or browser language to determine which language to use when showing search results or advertisements
+
+[035] to Other Sites
+
+[036] Google Search Services
+
+[037] Other links, such as those for the Google-friends mailing list archive, are also on sites not controlled by Google.
+
+[038] send
+
+[039] to users
+
+[040] ,
+
+[041] choose
+
+[042] exhibit its search results in the form of a “URL redirecter
+
+[043] ” When Google uses a URL redirecter, if you click on a URL from a search result, information about the click is sent to Google, and Google in turn sends you to the site you clicked on. Google uses
+
+[044] URL
+
+[045] Google uses
+
+[046] information to
+
+[047] With Whom Does Google Share Information? Google may share information about you with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information about our users and will not share personally identifiable information with any third party without your express consent. For example, we may disclose how frequently the average Google user visits Google, or which other query words are most often used with the query word “Linux.”
+
+[048] be aware, however, that we will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order. Your consent and changes to the Privacy Policy By using the Google Search Services and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our Terms of Service Policy. Google may decide to change
+
+[049] When we do
+
+[050] so that you
+
+[051] always aware
+
+[052] information we collect, how we use it, and under what circumstances we disclose it
+
+[053] Who can I ask if I
+
+[054] ? Feel
+
+[055] and we’ll answer any additional questions you may have
+
+[056] Our email address is help @ google
+
+[057] com.
+
+===============================================================================
+VERSION: October 14, 2005 (20051014)
+PREVIOUS VERSION: July 1, 2004 (20040701)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20051014?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20040701-20051014?hl=en-US
+CHANGE FRAGMENTS: 82
+
+[001] ,
+
+[002] strive to develop innovative services to better serve our users. We
+
+[003] an
+
+[004] issue
+
+[005] so
+
+[006] design
+
+[007] operate our services
+
+[008] protection
+
+[009] your privacy in mind
+
+[010] This
+
+[011] Policy outlines the types of personal information we gather when you use Google’s services
+
+[012] as well as some of the steps we take to safeguard it
+
+[013] The following principles apply to the personally identifying information we ask for and that you provide
+
+[014] “Personally identifying information” is information that individually identifies you, such as your name, physical address or email address. You can find more details about the data
+
+[015] on particular
+
+[016] by clicking the links on the side of this page. Data collection Google search, the Google Toolbar, Google News and some other services
+
+[017] require any personally identifying information. Google collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services. Some of our services
+
+[018] asks
+
+[019] some
+
+[020] in order to create an account
+
+[021] typically
+
+[022] a
+
+[023] for your account
+
+[024] and we will use that information to provide the service
+
+[025] When we require personally identifying
+
+[026] will inform
+
+[027] about
+
+[028] types
+
+[029] we collect and how we use it
+
+[030] We hope this will help
+
+[031] make an informed decision about sharing your personal information with us. Cookies Upon your first
+
+[032] to
+
+[033] cookie is sent
+
+[034] . A “cookie” is a small file containing a string of characters that is sent to your computer when you visit a website
+
+[035] and to better understand how people interact with us. Google does this
+
+[036] in cookies
+
+[037] by
+
+[038] and patterns of
+
+[039] . You
+
+[040] or
+
+[041] without
+
+[042] We do not rent or sell your personally identifying
+
+[043] to
+
+[044] , unless we have your consent. We may share such information
+
+[045] any of
+
+[046] sole
+
+[047] personally identifying
+
+[048] When this is done, it is subject to agreements
+
+[049] oblige those
+
+[050] only
+
+[051] Privacy
+
+[052] conclude that we are required by law or
+
+[053] you have an account
+
+[054] we may share the information submitted under your account among
+
+[055] our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent. We may store and process personal information collected on our site in the United States or any other country in which Google Inc. or
+
+[056] agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country. In the event of a transfer of ownership of Google Inc., such as acquisition by or merger with another company
+
+[057] any personally identifying
+
+[058] with others. Examples of this include
+
+[059] “Mars Rover”
+
+[060] your personally identifying
+
+[061] Updating
+
+[062] mechanisms for updating
+
+[063] correcting your personally identifying information for many
+
+[064] . For more information
+
+[065] please see the help pages for each service. Links The sites displayed as search results
+
+[066] linked to by Google’s services are developed by people over whom Google exercises no control. These other sites may place their own cookies on your computer, collect data or solicit
+
+[067] may present links in a format that enables
+
+[068] understand whether they have been followed
+
+[069] use this information to understand and improve the quality of Google’s search technology. For instance, this data helps us determine how often users are satisfied
+
+[070] first result
+
+[071] a query
+
+[072] how often they proceed to later results
+
+[073] Policy
+
+[074] to
+
+[075] , but there may be changes that are more significant
+
+[076] those
+
+[077] noted
+
+[078] . Prior
+
+[079] will be kept
+
+[080] you to view
+
+[081] For more information about our practices regarding specific information or services that are not covered in this Privacy Policy
+
+[082] click on the links to the side of this page
+
+===============================================================================
+VERSION: August 7, 2008 (20080807)
+PREVIOUS VERSION: October 14, 2005 (20051014)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20080807?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20051014-20080807?hl=en-US
+CHANGE FRAGMENTS: 47
+
+[001] Google's "
+
+[002] ")
+
+[003] separate
+
+[004] , which are accessible from
+
+[005] navigation bar to the left of this notice
+
+[006] safe harbor privacy principles
+
+[007] Commerce's safe harbor program
+
+[008] ,
+
+[009] ,
+
+[010] ,
+
+[011] .
+
+[012] -
+
+[013] Google cookies -
+
+[014] -
+
+[015] -
+
+[016] Most browsers are initially
+
+[017] up to accept cookies, but you can reset
+
+[018] to refuse all cookies
+
+[019] to indicate when a cookie is being sent. However, some Google features and
+
+[020] may not function properly if your cookies are disabled
+
+[021] -
+
+[022] use
+
+[023] -
+
+[024] communication
+
+[025] -
+
+[026] -
+
+[027] -
+
+[028] web sites and
+
+[029] that are owned and operated by Google
+
+[030] the applicable
+
+[031] notice
+
+[032] products and
+
+[033] specific
+
+[034] '
+
+[035] Google's
+
+[036] ,
+
+[037] ,
+
+[038] ,
+
+[039] ,
+
+[040] .
+
+[041] Google's
+
+[042] policy
+
+[043] ,
+
+[044] ,
+
+[045] ,
+
+[046] ,
+
+[047] .
+
+===============================================================================
+VERSION: January 27, 2009 (20090127)
+PREVIOUS VERSION: August 7, 2008 (20080807)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20090127?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20080807-20090127?hl=en-US
+CHANGE FRAGMENTS: 0
+
+(No text in this category detected after normalization.)
+
+===============================================================================
+VERSION: March 11, 2009 (20090311)
+PREVIOUS VERSION: January 27, 2009 (20090127)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20090311?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20090127-20090311?hl=en-US
+CHANGE FRAGMENTS: 11
+
+[001] by
+
+[002] a cookie
+
+[003] Also, in order to protect you from fraud, phishing, and other misconduct, we may collect information about your interaction with our services. Any such information we collect will only be used to detect and prevent fraud or other misconduct.
+
+[004] in connection with
+
+[005] in accordance with
+
+[006] For
+
+[007] , please see our FAQs
+
+[008] to users
+
+[009] Google’s Ad Serving cookies on
+
+[010] Google content network
+
+[011] imminent
+
+===============================================================================
+VERSION: October 3, 2010 (20101003)
+PREVIOUS VERSION: March 11, 2009 (20090311)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20101003?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20090311-20101003?hl=en-US
+CHANGE FRAGMENTS: 60
+
+[001] March 11
+
+[002] 2009
+
+[003] At Google we recognize that privacy is important.
+
+[004] DoubleClick (DoubleClick Privacy Policy) and
+
+[005] ; collectively
+
+[006] Google’s “services.” In addition, where more detailed information is needed
+
+[007] privacy practices, we post supplementary privacy notices to describe how particular services process personal information
+
+[008] These notices can be found in the Google Privacy Center. Google adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U. S. Department of Commerce’s Safe Harbor Program.
+
+[009] offer a number of services that do not require you to register for an account or provide any personal information to us, such as Google Search. In order to provide our full range of services, we
+
+[010] or other Google service or promotion that requires registration
+
+[011] (such as your name, email address and an account password). For certain services, such as our advertising programs, we also request credit card or other payment account information which we maintain in encrypted form on secure servers
+
+[012] – a small file containing a string of characters –
+
+[013] that uniquely identifies your browser
+
+[014] . We may set one or more cookies in your browser when you visit a website, including
+
+[015] sites that use our advertising cookies, and view or click on an ad supported by Google’s advertising
+
+[016] that your browser sends whenever you visit a website
+
+[017] The affiliated sites through which our services are offered may have different privacy practices and we encourage you to read their privacy policies. Gadgets
+
+[018] gadget or other
+
+[019] or gadget
+
+[020] for mobile
+
+[021] Links
+
+[022] may present links in
+
+[023] format
+
+[024] enables us to keep track of whether these links have been followed
+
+[025] We use this information to improve the quality of our search technology, customized content
+
+[026] advertising. Read more
+
+[027] links and redirected URLs
+
+[028] Google only processes personal information for the purposes described in this Privacy Policy and / or the supplementary privacy notices for specific services.
+
+[029] such purposes include
+
+[030] Providing our services
+
+[031] including the display of customized content and advertising; Auditing, research and analysis in order to
+
+[032] Ensuring the technical functioning of our network; Protecting
+
+[033] ; and Developing new services. You can find more information about how we process personal information by referring to the supplementary privacy notices for particular services. Google processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners. Choices for personal information When you sign up for a particular service that requires registration, we ask you to provide personal information
+
+[034] If we propose to use
+
+[035] for any purposes other than those described in this Privacy Policy and / or
+
+[036] specific service privacy notices
+
+[037] will offer you an effective way to opt out of the use of
+
+[038] for those other purposes
+
+[039] We will not collect or
+
+[040] sensitive
+
+[041] for purposes other than those described
+
+[042] this Privacy Policy and / or in the supplementary service privacy notices, unless we have obtained
+
+[043] prior consent
+
+[044] , edit,
+
+[045] You can decline to submit personal information to any of our services, in which case Google may not be able to provide those services to you.
+
+[046] We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
+
+[047] Please contact us at the address below for any additional questions about the management or use of personal data.
+
+[048] as well as
+
+[049] operate, develop or improve
+
+[050] services
+
+[051] Data integrity Google processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+
+[052] Some
+
+[053] services have different procedures to access, correct or delete users’ personal
+
+[054] We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+
+[055] Please feel free to direct any questions or concerns regarding this Privacy Policy or Google’s treatment of personal information by contacting us through this web site or by writing to us at Privacy Matters c / o Google Inc. 1600 Amphitheatre Parkway Mountain View, California, 94043 USA
+
+[056] at this address
+
+[057] , and we expect most such changes will be minor
+
+[058] Regardless, we
+
+[059] Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we
+
+[060] If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at Privacy Matters c / o Google Inc. 1600 Amphitheatre Parkway Mountain View, California, 94043 USA
+
+===============================================================================
+VERSION: October 20, 2011 (20111020)
+PREVIOUS VERSION: October 3, 2010 (20101003)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20111020?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20101003-20111020?hl=en-US
+CHANGE FRAGMENTS: 8
+
+[001] 3
+
+[002] 2010
+
+[003] adheres to
+
+[004] US
+
+[005] Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access
+
+[006] Enforcement, and is registered with
+
+[007] Commerce’s
+
+[008] Program
+
+===============================================================================
+VERSION: March 1, 2012 (20120301)
+PREVIOUS VERSION: October 20, 2011 (20111020)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20120301?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20111020-20120301?hl=en-US
+CHANGE FRAGMENTS: 132
+
+[001] October 20
+
+[002] 2011
+
+[003] This
+
+[004] applies
+
+[005] all of
+
+[006] products, services
+
+[007] websites offered by Google Inc. or its subsidiaries or affiliated companies except Postini (Postini Privacy Policy). Sometimes, we may post product specific privacy notices or Help Center materials to explain our products in more detail. If
+
+[008] about this Privacy Policy, please feel free to
+
+[009] through our website or write to us at Privacy Matters c / o Google Inc
+
+[010] 1600 Amphitheatre Parkway Mountain View, California, 94043 USA
+
+[011] and how we use it
+
+[012] may
+
+[013] following types of
+
+[014] provide – When
+
+[015] you
+
+[016] combine the information you submit under
+
+[017] account with information
+
+[018] other Google services or third parties in order to provide you with a better experience and to improve the quality
+
+[019] For certain
+
+[020] give
+
+[021] the opportunity to opt out of combining such information. You can use the Google Dashboard to learn more about the information associated with your Account. If you are using Google services in conjunction with your Google Apps Account, Google provides such services in conjunction with or on behalf of your domain administrator. Your administrator will have access to your account information including your email. Consult your domain administrator’s privacy policy for more information. Cookies – When you visit Google, we send one or more cookies to your computer or other device. We use cookies to improve the quality of
+
+[022] including for storing user preferences, improving search results and ad selection, and tracking user trends,
+
+[023] how people
+
+[024] Google also uses cookies in its advertising services to help advertisers
+
+[025] publishers serve
+
+[026] manage ads across the web and on Google services
+
+[027] Log information – When you access Google services via a browser, application or other client our servers automatically record certain information
+
+[028] These server logs may include
+
+[029] your web request
+
+[030] your interaction with a service
+
+[031] Internet Protocol address
+
+[032] one or more
+
+[033] account
+
+[034] User communications –
+
+[035] send email or other communications to
+
+[036] , we may retain those communications in order to process your inquiries, respond to your requests and improve our services. When you send and receive SMS messages to or from one of our services that provides SMS functionality
+
+[037] maintain information associated with those messages, such as the phone number, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction. We may use your email address to communicate with you about our services. Affiliated Google Services on other sites – We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to Google in order to deliver the service. We
+
+[038] such information under this Privacy Policy. Third Party Applications – Google may make available third party applications, such as gadgets or extensions, through its services. The information collected by Google when you enable a third party application is processed under this Privacy Policy. Information collected by the third party application provider is governed by their privacy policies. Location data – Google offers location-enabled services, such as Google Maps and Latitude. If you use those services, Google may receive
+
+[039] (such as
+
+[040] ) or information that can be used
+
+[041] approximate a
+
+[042] (
+
+[043] a
+
+[044] ID)
+
+[045] number –
+
+[046] , such as Google Toolbar,
+
+[047] that is not associated with your account or you
+
+[048] e. g.
+
+[049] (
+
+[050] example, to request
+
+[051] the software). Other sites – This Privacy Policy applies
+
+[052] Google services only
+
+[053] do not exercise control over the sites displayed
+
+[054] search results, sites
+
+[055] include Google applications, products or services, or links from within our various services. These
+
+[056] may place their own cookies or other files on your computer,
+
+[057] data or solicit personal information from you. In addition to the above, we may
+
+[058] : Provide
+
+[059] improve our services (including advertising services)
+
+[060] develop new services; and Protect the rights or property of Google or
+
+[061] If we
+
+[062] manner different than the purpose
+
+[063] which
+
+[064] was collected, then
+
+[065] prior to such use
+
+[066] United States of America and in other countries
+
+[067] In some cases, we
+
+[068] your own
+
+[069] Choices You
+
+[070] use the Google Dashboard to review
+
+[071] stored in
+
+[072] Most browsers are initially
+
+[073] up to accept cookies, but you can reset
+
+[074] refuse
+
+[075] sent
+
+[076] some Google features and
+
+[077] Google uses the DoubleClick advertising cookie on AdSense partner sites and certain Google services to help advertisers and publishers serve and manage ads across the web. You can view and manage
+
+[078] ads
+
+[079] associated with this cookie by accessing the Ads Preferences Manager. In addition, you may choose to opt out of the DoubleClick cookie at any time by using DoubleClick’s opt-out cookie
+
+[080] Google only shares
+
+[081] other
+
+[082] in the following limited circumstances: We
+
+[083] such
+
+[084] subsidiaries, affiliated companies
+
+[085] for the purpose of processing personal information on our behalf. We require that these parties agree
+
+[086] such information
+
+[087] this
+
+[088] good faith
+
+[089] such
+
+[090] (a) satisfy
+
+[091] , (b)
+
+[092] thereof, (c)
+
+[093] , or (d)
+
+[094] its
+
+[095] becomes
+
+[096] ,
+
+[097] any form of
+
+[098] of some or all of its assets
+
+[099] involved in such transactions
+
+[100] and
+
+[101] take appropriate security measures
+
+[102] against
+
+[103] data
+
+[104] These include internal reviews
+
+[105] data
+
+[106] and
+
+[107] including appropriate encryption and physical security measures
+
+[108] where we store personal data
+
+[109] on our behalf. These individuals
+
+[110] bound by
+
+[111] subject to discipline, including termination and criminal prosecution,
+
+[112] Accessing
+
+[113] updating personal information When
+
+[114] use
+
+[115] we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate
+
+[116] to delete such data at your request if it is
+
+[117] otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and
+
+[118] requested to be accessed, corrected or removed before processing such requests
+
+[119] we
+
+[120] decline
+
+[121] process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required
+
+[122] In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems. Please review the service Help Centers for more information.
+
+[123] Google complies with the U. S. - EU Safe Harbor Framework and the U. S. - Swiss Safe Harbor Framework as set forth by the U. S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Google has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Google’s certification, please visit the Safe Harbor website. Google
+
+[124] reviews its
+
+[125] this
+
+[126] it is Google’s policy to
+
+[127] complaining user regarding his or her concerns
+
+[128] will cooperate
+
+[129] be resolved between Google and an individual
+
+[130] to this Privacy Policy Please note that this
+
+[131] Privacy Policy
+
+[132] Privacy Policy
+
+===============================================================================
+VERSION: July 27, 2012 (20120727)
+PREVIOUS VERSION: March 1, 2012 (20120301)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20120727?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20120301-20120727?hl=en-US
+CHANGE FRAGMENTS: 1
+
+[001] March 1
+
+===============================================================================
+VERSION: June 24, 2013 (20130624)
+PREVIOUS VERSION: July 27, 2012 (20120727)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20130624?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20120727-20130624?hl=en-US
+CHANGE FRAGMENTS: 4
+
+[001] July 27
+
+[002] 2012
+
+[003] the
+
+[004] Preferences Manager
+
+===============================================================================
+VERSION: December 20, 2013 (20131220)
+PREVIOUS VERSION: June 24, 2013 (20130624)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20131220?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20130624-20131220?hl=en-US
+CHANGE FRAGMENTS: 5
+
+[001] June 24
+
+[002] contact us
+
+[003] preferences
+
+[004] tapes
+
+[005] apply
+
+===============================================================================
+VERSION: March 31, 2014 (20140331)
+PREVIOUS VERSION: December 20, 2013 (20131220)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20140331?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20131220-20140331?hl=en-US
+CHANGE FRAGMENTS: 4
+
+[001] December 20
+
+[002] 2013
+
+[003] Application
+
+[004] Enforcement
+
+===============================================================================
+VERSION: December 19, 2014 (20141219)
+PREVIOUS VERSION: March 31, 2014 (20140331)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20141219?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20140331-20141219?hl=en-US
+CHANGE FRAGMENTS: 12
+
+[001] March 31
+
+[002] or
+
+[003] may
+
+[004] may
+
+[005] may
+
+[006] may include
+
+[007] a location-enabled
+
+[008] service
+
+[009] , like GPS signals sent by a mobile device
+
+[010] may also
+
+[011] such as sensor data from your device
+
+[012] may
+
+===============================================================================
+VERSION: February 25, 2015 (20150225)
+PREVIOUS VERSION: December 19, 2014 (20141219)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20150225?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20141219-20150225?hl=en-US
+CHANGE FRAGMENTS: 5
+
+[001] December 19
+
+[002] 2014
+
+[003] Use our editor to see and adjust
+
+[004] Profile
+
+[005] particular individuals
+
+===============================================================================
+VERSION: May 1, 2015 (20150501)
+PREVIOUS VERSION: February 25, 2015 (20150225)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20150501?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20150225-20150501?hl=en-US
+CHANGE FRAGMENTS: 2
+
+[001] Information we collect How we use information we collect Transparency and choice Information you share Accessing and updating your personal information Information we share Information security When this Privacy Policy applies Compliance and cooperation with regulatory authorities Changes Specific product practices Other useful privacy and security related materials
+
+[002] February 25
+
+===============================================================================
+VERSION: June 5, 2015 (20150605)
+PREVIOUS VERSION: May 1, 2015 (20150501)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20150605?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20150501-20150605?hl=en-US
+CHANGE FRAGMENTS: 10
+
+[001] May 1
+
+[002] two
+
+[003] you
+
+[004] anonymous identifiers
+
+[005] sending one or more
+
+[006] anonymous identifiers
+
+[007] cookies
+
+[008] anonymous identifiers
+
+[009] a cookie
+
+[010] anonymous identifier
+
+===============================================================================
+VERSION: June 30, 2015 (20150630)
+PREVIOUS VERSION: June 5, 2015 (20150605)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20150630?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20150605-20150630?hl=en-US
+CHANGE FRAGMENTS: 3
+
+[001] 5
+
+[002] consult this page
+
+[003] Wallet
+
+===============================================================================
+VERSION: August 19, 2015 (20150819)
+PREVIOUS VERSION: June 30, 2015 (20150630)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20150819?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20150630-20150819?hl=en-US
+CHANGE FRAGMENTS: 8
+
+[001] June 30
+
+[002] Visit
+
+[003] Account History for settings that allow you
+
+[004] control the collection
+
+[005] personal information from Google services
+
+[006] Search
+
+[007] YouTube and Location History
+
+[008] aggregated,
+
+===============================================================================
+VERSION: March 25, 2016 (20160325)
+PREVIOUS VERSION: August 19, 2015 (20150819)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20160325?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20150819-20160325?hl=en-US
+CHANGE FRAGMENTS: 3
+
+[001] August 19
+
+[002] 2015
+
+[003] History
+
+===============================================================================
+VERSION: June 28, 2016 (20160628)
+PREVIOUS VERSION: March 25, 2016 (20160325)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20160628?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20160325-20160628?hl=en-US
+CHANGE FRAGMENTS: 3
+
+[001] March 25
+
+[002] We will not combine DoubleClick cookie
+
+[003] with personally identifiable information unless we have your opt-in consent
+
+===============================================================================
+VERSION: August 29, 2016 (20160829)
+PREVIOUS VERSION: June 28, 2016 (20160628)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20160829?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20160628-20160829?hl=en-US
+CHANGE FRAGMENTS: 4
+
+[001] June 28
+
+[002] here
+
+[003] Actvity
+
+[004] Trends
+
+===============================================================================
+VERSION: March 1, 2017 (20170301)
+PREVIOUS VERSION: August 29, 2016 (20160829)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20170301?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20160829-20170301?hl=en-US
+CHANGE FRAGMENTS: 4
+
+[001] August 29
+
+[002] 2016
+
+[003] Google Apps
+
+[004] Google Apps
+
+===============================================================================
+VERSION: April 17, 2017 (20170417)
+PREVIOUS VERSION: March 1, 2017 (20170301)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20170417?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20170301-20170417?hl=en-US
+CHANGE FRAGMENTS: 2
+
+[001] March 1
+
+[002] Framework
+
+===============================================================================
+VERSION: October 2, 2017 (20171002)
+PREVIOUS VERSION: April 17, 2017 (20170417)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20171002?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20170417-20171002?hl=en-US
+CHANGE FRAGMENTS: 2
+
+[001] April 17
+
+[002] Inc.
+
+===============================================================================
+VERSION: December 18, 2017 (20171218)
+PREVIOUS VERSION: October 2, 2017 (20171002)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20171218?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20171002-20171218?hl=en-US
+CHANGE FRAGMENTS: 70
+
+[001] October 2
+
+[002] When updating your personal information, we may ask you to verify your identity before we can act on your request. We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems). Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort.
+
+[003] "access to your personal information"
+
+[004] For example, with Google Dashboard you can quickly and easily see some of the data associated with your Google Account. Learn more.
+
+[005] "ads you’ll find most useful"
+
+[006] For example, if you frequently visit websites and blogs about gardening, you may see ads related to gardening as you browse the web. Learn more.
+
+[007] "advertising services"
+
+[008] For example, if you frequently visit websites and blogs about gardening that show our ads, you may start to see ads related to this interest as you browse the web. Learn more.
+
+[009] "and other sensors"
+
+[010] Your device may have sensors that provide information to assist in a better understanding of your location. For example, an accelerometer can be used to determine things like speed, or a gyroscope to figure out direction of travel. Learn more.
+
+[011] "collect information"
+
+[012] This includes information like your usage data and preferences, Gmail messages, G+ profile, photos, videos, browsing history, map searches, docs, or other Google-hosted content. Learn more.
+
+[013] "combine personal information from one service with information, including personal information, from other Google services"
+
+[014] For example, when you’re signed in to your Google Account and search on Google, you can see search results from the public web, along with pages, photos, and Google+ posts from your friends and people who know you or follow you on Google+ may see your posts and profile in their results. Learn more.
+
+[015] "connect with people"
+
+[016] For example, you could get suggestions of people you might know or want to connect with on Google+, based on the connections you have with people on other Google products, like Gmail; and people who have a connection with you may see your profile as a suggestion. Learn more.
+
+[017] "credit card"
+
+[018] Whilst we currently don’t ask for a credit card during sign up, verifying your age through a small credit card transaction is one way to confirm that you meet our age requirements in case your account was disabled after you have entered a birthday indicating you are not old enough to have a Google Account. Learn more.
+
+[019] "develop new ones"
+
+[020] For example, Google’s spell checking software was developed by analyzing previous searches where users had corrected their own spelling. Learn more.
+
+[021] "device identifiers"
+
+[022] Device identifiers let Google know which unique device you are using to access our services, which can be used to customise our service to your device or analyse any device issues related to our services. Learn more.
+
+[023] "device-specific information"
+
+[024] For example, when you visit Google Play from your desktop, Google can use this information to help you decide on which devices you'd like your purchases to be available for use. Learn more.
+
+[025] "improve your user experience"
+
+[026] For example, cookies allow us to analyse how users interact with our services. Learn more.
+
+[027] "legal process or enforceable governmental request"
+
+[028] Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to hand over user data. Our legal team reviews each and every request, regardless of type, and we frequently push back when the requests appear to be overly broad or don’t follow the correct process. Learn more.
+
+[029] "limit sharing or visibility settings"
+
+[030] For example, you can choose your settings so your name and photo do not appear in an ad. Learn more.
+
+[031] "linked with information about visits to multiple sites"
+
+[032] Google Analytics is based on first-party cookies. Data generated through Google Analytics can be linked, by the Google Analytics customer or by Google, using Google technology, to third-party cookies, related to visits to other websites, for instance when an advertiser wants to use its Google Analytics data to create more relevant ads, or to further analyze its traffic. Learn more.
+
+[033] "maintain"
+
+[034] For example, we continuously monitor our systems to check that they are working as intended and in order to detect and fix errors. Learn more.
+
+[035] "may collect and process information about your actual location"
+
+[036] For example, Google Maps can center the maps view on your current location. Learn more.
+
+[037] "may not function properly"
+
+[038] For example, we use a cookie called ‘lbcs’ which makes it possible for you to open many Google Docs in one browser. Learn more.
+
+[039] "and our partners"
+
+[040] We allow trusted businesses to use cookies or similar technologies for advertising and research purposes on our services. Learn more.
+
+[041] "phone number"
+
+[042] For example, if you add a phone number as a recovery option, if you forget your password Google can send you a text message with a code to enable you to reset it. Learn more.
+
+[043] "protect Google and our users"
+
+[044] For example, if you're concerned about unauthorized access to your email, "Last account activity" in Gmail shows you information about recent activity in your email, such as the IP addresses that accessed your mail, the associated location, as well as the time and date. Learn more.
+
+[045] "protect"
+
+[046] For example, one reason we collect and analyze IP addresses and cookies is to protect our services against automated abuse. Learn more.
+
+[047] "provide"
+
+[048] For example, the IP address assigned to your device is used to send the data you requested back to your device. Learn more.
+
+[049] "sharing"
+
+[050] For example, with Google+, you have many different sharing options. Learn more.
+
+[051] "sharing with others quicker and easier"
+
+[052] For example, if someone is already a contact, Google will autocomplete their name if you want to add them to a message in Gmail. Learn more.
+
+[053] "the people who matter most to you online"
+
+[054] For example, when you type an address in the To, Cc, or Bcc field of a message you're composing, Gmail will suggest addresses from your Contacts list. Learn more.
+
+[055] "to make it easier to share things with people you know"
+
+[056] For example, if you have communicated with someone via Gmail and want to add them to a Google Doc or an event in Google Calendar, Google makes it easy to do so by autocompleting their email address when you start to type in their name. Learn more.
+
+[057] "view and interact with our ads"
+
+[058] For example, we regularly report to advertisers on whether we served their ad to a page and whether that ad was likely to be seen by users (as opposed to, for example, being on part of the page to which users did not scroll). Learn more.
+
+[059] "We may share aggregated, non-personally identifiable information publicly"
+
+[060] When lots of people start searching for something, it can provide very useful information about particular trends at that time. Learn more.
+
+[061] "Wi-Fi access points and cell towers"
+
+[062] For example, Google can approximate your device’s location based on the known location of nearby cell towers. Learn more.
+
+[063] "more relevant search results"
+
+[064] For example, we can make search more relevant and interesting for you by including photos, posts, and more from you and your friends. Learn more.
+
+[065] "removing your content"
+
+[066] For example, you can delete your Web & App Activity, your blog, a Google Site you own, your YouTube Channel, your Google+ profile or your entire Google account. Learn more.
+
+[067] "to show trends"
+
+[068] You can see some of these at Google Trends and YouTube Trending Videos. Learn more.
+
+[069] "your activity on other sites and apps"
+
+[070] This activity might come from your use of Google products like Chrome Sync or from your visits to sites and apps that partner with Google. Many websites and apps partner with Google to improve their content and services. For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics). These products share information about your activity with Google and, depending on your account settings and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information. Learn more.
+
+===============================================================================
+VERSION: May 25, 2018 (20180525)
+PREVIOUS VERSION: December 18, 2017 (20171218)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20180525?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20171218-20180525?hl=en-US
+CHANGE FRAGMENTS: 316
+
+[001] Last modified: December 18, 2017 (view archived versions) There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content.
+
+[002] you share information with us, for example by creating a Google Account, we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As
+
+[003] we want you
+
+[004] be clear how we’re using
+
+[005] the ways
+
+[006] which you can protect your privacy
+
+[007] Our
+
+[008] explains: What
+
+[009] . How we use that
+
+[010] The choices
+
+[011] offer, including
+
+[012] to access and update
+
+[013] We’ve tried to keep it
+
+[014] simple
+
+[015] but if you’re not familiar with terms like cookies
+
+[016] IP addresses
+
+[017] pixel tags
+
+[018] browsers, then read about these
+
+[019] first
+
+[020] Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and
+
+[021] of
+
+[022] –
+
+[023] We collect
+
+[024] in the following ways: Information
+
+[025] give us. For example, many of
+
+[026] require
+
+[027] sign up for
+
+[028] you do
+
+[029] we’ll ask for personal
+
+[030] , like your name, email address, telephone number or credit card to
+
+[031] want
+
+[032] take full advantage of the sharing features we offer, we might also ask
+
+[033] to
+
+[034] publicly visible
+
+[035] Profile
+
+[036] which may include
+
+[037] photo
+
+[038] get from your
+
+[039] of
+
+[040] .
+
+[041] services that
+
+[042] how you use them
+
+[043] watch
+
+[044] video on YouTube
+
+[045] visit a website that uses
+
+[046] advertising
+
+[047] , or view and interact with our ads and content
+
+[048] : Device information
+
+[049] device-specific
+
+[050] (such as
+
+[051] hardware model
+
+[052] operating system version, unique device identifiers,
+
+[053] mobile network
+
+[054] including phone number). Google may associate your device identifiers
+
+[055] phone number
+
+[056] . Log information When
+
+[057] view content provided by Google
+
+[058] automatically
+
+[059] and store certain information in server logs. This includes: details of how you used our service, such as your search queries.
+
+[060] SMS
+
+[061] Internet protocol address. device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. cookies that may uniquely identify your browser or
+
+[062] Location
+
+[063] When you use Google services, we may
+
+[064] and process
+
+[065] actual
+
+[066] We use various technologies to determine
+
+[067] GPS, and other sensors that may, for example, provide Google with information on nearby devices,
+
+[068] and
+
+[069] . Unique application numbers Certain services include a unique application number. This number
+
+[070] information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. Local storage We may
+
+[071] and store information (including personal information) locally
+
+[072] mechanisms such as browser web storage (
+
+[073] HTML 5)
+
+[074] application data caches
+
+[075] Cookies
+
+[076] similar technologies
+
+[077] and our partners
+
+[078] when you visit a Google service
+
+[079] and this may include using
+
+[080] or similar technologies to identify your browser or device. We also use these technologies to collect and store information when you interact with services we offer to our partners
+
+[081] advertising
+
+[082] or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyze the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites. Information we collect when you are signed in to Google, in addition to information we obtain about you from partners, may be associated with your Google Account. When information is associated with your Google Account, we treat it as personal information. For more information about how you can access, manage or delete information that is associated with your Google Account, visit the Transparency and choice section of this policy. How we use information we collect
+
+[083] of
+
+[084] provide
+
+[085] maintain
+
+[086] protect and
+
+[087] them,
+
+[088] to protect Google and our users. We also use this information to offer you tailored content – like giving you more relevant
+
+[089] ads
+
+[090] We may use the name you provide for
+
+[091] Google Profile across all of the services we offer that require a Google Account. In addition
+
+[092] replace past names associated with
+
+[093] Account so that
+
+[094] are represented consistently across all our services
+
+[095] If other users already have your email
+
+[096] other
+
+[097] , we may show them your publicly visible Google Profile information
+
+[098] photo
+
+[099] If
+
+[100] have
+
+[101] display your Profile name
+
+[102] Profile photo, and actions you take on Google or on third-party applications connected
+
+[103] (such as + 1’s, reviews
+
+[104] write and comments you post) in
+
+[105] , including displaying in ads and other commercial contexts
+
+[106] We will respect the choices you make to limit sharing or visibility settings in your Google Account. When
+
+[107] we
+
+[108] communication
+
+[109] We may use your email address to inform you about
+
+[110] such as letting you know about upcoming changes or improvements.
+
+[111] collected from cookies
+
+[112] other technologies, like pixel tags, to improve your user experience and the overall quality
+
+[113] One of
+
+[114] products
+
+[115] do this on our own services is Google Analytics
+
+[116] saving your
+
+[117] preferences, we’ll be able
+
+[118] have our services appear in the language you prefer. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with sensitive categories, such as those based on race, religion, sexual orientation or health. Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection
+
+[119] personal
+
+[120] from one service with information
+
+[121] including personal information
+
+[122] from other Google services –
+
+[123] example to make it easier to share things with people you know
+
+[124] We will
+
+[125] other than those
+
+[126] are set out
+
+[127] Google processes personal information on our servers in many countries around
+
+[128] world. We may process your personal information on a server located outside the country where you live. Transparency and choice People have different privacy concerns. Our goal is to be clear about what
+
+[129] so that
+
+[130] make meaningful choices about how it is used
+
+[131] : Review and update
+
+[132] Google activity controls
+
+[133] decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services
+
+[134] You can also visit these controls
+
+[135] manage whether certain activity is stored in a cookie or similar technology on your device when you use our services while signed-out of your account. Review and control certain types of information tied to your Google Account by using Google Dashboard. View and edit
+
+[136] across the web, such as which categories might interest you, using Ads Settings
+
+[137] also visit that page
+
+[138] opt out of
+
+[139] Google
+
+[140] Adjust how the Profile associated with your
+
+[141] Account appears to others. Control who you share information with through your Google Account. Take information associated with your Google Account out of many of our
+
+[142] Profile
+
+[143] Profile
+
+[144] in shared endorsements
+
+[145] You may also set your browser
+
+[146] block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences.
+
+[147] others
+
+[148] that
+
+[149] it
+
+[150] be indexable by
+
+[151] Our services provide you
+
+[152] different options on sharing and removing your content. Accessing and updating your personal information Whenever you use our
+
+[153] we aim to provide you with access
+
+[154] personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes
+
+[155] aim to maintain our services
+
+[156] a manner that protects
+
+[157] from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. Information we share
+
+[158] and
+
+[159] unless one of
+
+[160] circumstances applies
+
+[161] We will
+
+[162] with companies, organizations or individuals
+
+[163] do so
+
+[164] We require opt-in
+
+[165] for the sharing of
+
+[166] Account is managed for you by a domain administrator
+
+[167] for example, for
+
+[168] then
+
+[169] provide user support to
+
+[170] organization
+
+[171] information (including your email and other data)
+
+[172] Your domain administrator
+
+[173] view
+
+[174] statistics regarding applications
+
+[175] . change
+
+[176] . suspend
+
+[177] . access or retain information stored as part of your account. receive
+
+[178] . restrict
+
+[179] . Please refer to your domain administrator’s privacy policy for more information.
+
+[180] or
+
+[181] with companies, organizations or individuals
+
+[182] meet
+
+[183] enforce
+
+[184] detect
+
+[185] protect
+
+[186] –
+
+[187] connected sites
+
+[188] asset
+
+[189] we will
+
+[190] any
+
+[191] Information
+
+[192] and our users
+
+[193] to or unauthorized
+
+[194] . In particular
+
+[195] encrypt many of our services using SSL.
+
+[196] you two step verification when you access your Google Account
+
+[197] a Safe Browsing feature in Google Chrome.
+
+[198] guard against
+
+[199] .
+
+[200] to know
+
+[201] for us, and who are
+
+[202] When
+
+[203] applies Our Privacy Policy applies to all
+
+[204] services offered by Google LLC and its affiliates
+
+[205] including YouTube
+
+[206] services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate
+
+[207] Privacy Policy. Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. Compliance and cooperation with regulatory authorities We regularly review our compliance with our Privacy Policy
+
+[208] adhere
+
+[209] several self regulatory frameworks
+
+[210] will contact
+
+[211] to follow up
+
+[212] personal
+
+[213] our users
+
+[214] Changes Our
+
+[215] will post any privacy policy
+
+[216] on this page
+
+[217] , if the
+
+[218] we will
+
+[219] privacy policy
+
+[220] We will also keep prior versions of this Privacy Policy in an archive for your review.
+
+[221] product practices
+
+[222] explain specific privacy practices with respect to certain
+
+[223] products and
+
+[224] that you may use
+
+[225] and
+
+[226] OS
+
+[227] For
+
+[228] some
+
+[229] our most popular services, you can visit the Google Product Privacy Guide. Other useful privacy
+
+[230] security related materials Further useful privacy and security related materials can be found through Google’s policies and principles pages, including: Information about our technologies and principles, which
+
+[231] , among other things,
+
+[232] on how
+
+[233] . technologies we use
+
+[234] advertising. how we
+
+[235] patterns
+
+[236] .
+
+[237] The Privacy Checkup tool
+
+[238] review
+
+[239] key privacy
+
+[240] Google’s safety center
+
+[241] provides
+
+[242] stay safe
+
+[243] secure online
+
+[244] Privacy
+
+[245] Terms
+
+[246] Transparency Center
+
+[247] English
+
+[248] Afrikaans
+
+[249] Bahasa Indonesia
+
+[250] Bahasa Melayu
+
+[251] Català
+
+[252] Čeština
+
+[253] Dansk
+
+[254] Deutsch
+
+[255] Eesti
+
+[256] English
+
+[257] English (India)
+
+[258] English (United Kingdom)
+
+[259] Español
+
+[260] Español (Latinoamérica)
+
+[261] Euskara
+
+[262] Filipino
+
+[263] Français
+
+[264] Français (Canada)
+
+[265] Gaeilge
+
+[266] Galego
+
+[267] Hrvatski
+
+[268] Isizulu
+
+[269] Íslenska
+
+[270] Italiano
+
+[271] Kiswahili
+
+[272] Latviešu
+
+[273] Lietuvių
+
+[274] Magyar
+
+[275] Malti
+
+[276] Nederlands
+
+[277] Norsk
+
+[278] Polski
+
+[279] Português (Brasil)
+
+[280] Português (Portugal)
+
+[281] Română
+
+[282] Slovenčina
+
+[283] Slovenščina
+
+[284] Srpski
+
+[285] Suomi
+
+[286] Svenska
+
+[287] Tiếng Việt
+
+[288] Türkçe
+
+[289] অসমীয়া
+
+[290] Ελληνικά
+
+[291] Български
+
+[292] ଓଡିଆ
+
+[293] Русский
+
+[294] Српски
+
+[295] Українська
+
+[296] ‫עברית‬
+
+[297] ‫اردو‬
+
+[298] ‫العربية‬
+
+[299] ‫فارسی‬
+
+[300] አማርኛ
+
+[301] मराठी
+
+[302] हिन्दी
+
+[303] বাংলা
+
+[304] ગુજરાતી
+
+[305] தமிழ்
+
+[306] తెలుగు
+
+[307] ಕನ್ನಡ
+
+[308] മലയാളം
+
+[309] ไทย
+
+[310] 한국어
+
+[311] 中文 (香港)
+
+[312] 中文（简体中文）
+
+[313] 中文（繁體中文）
+
+[314] 日本語
+
+[315] Google apps
+
+[316] Main menu
+
+===============================================================================
+VERSION: January 22, 2019 (20190122)
+PREVIOUS VERSION: May 25, 2018 (20180525)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20190122?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20180525-20190122?hl=en-US
+CHANGE FRAGMENTS: 16
+
+[001] save and manage
+
+[002] location information in your account
+
+[003] request
+
+[004] ride from
+
+[005] ride-sharing
+
+[006] address
+
+[007] that service
+
+[008] Project
+
+[009] offers advice
+
+[010] staying safe & secure Google's privacy site provides more information about how we keep
+
+[011] information private and safe
+
+[012] and Principles
+
+[013] A page that explains what data is shared with
+
+[014] when you visit websites
+
+[015] advertising, analytics and social products. How Google uses data when you use our partners ' sites or apps
+
+[016] Project
+
+===============================================================================
+VERSION: October 15, 2019 (20191015)
+PREVIOUS VERSION: January 22, 2019 (20190122)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20191015?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20190122-20191015?hl=en-US
+CHANGE FRAGMENTS: 13
+
+[001] Control
+
+[002] a song
+
+[003] In
+
+[004] cases
+
+[005] data
+
+[006] limited
+
+[007] it needs to be kept
+
+[008] You can read about Google’s
+
+[009] retention periods
+
+[010] including how long it takes us
+
+[011] delete
+
+[012] information
+
+[013] About Google
+
+===============================================================================
+VERSION: March 31, 2020 (20200331)
+PREVIOUS VERSION: October 15, 2019 (20191015)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20200331?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20191015-20200331?hl=en-US
+CHANGE FRAGMENTS: 12
+
+[001] EU-US
+
+[002] Swiss-US
+
+[003] ads you’ll find most useful For example, if you watch videos about baking on YouTube, you may see more ads that relate to baking as you browse the web. We also may use your IP address to determine your approximate location, so that we can serve you ads for a nearby pizza delivery service if you search for “pizza.” Learn more about Google ads and why you may see particular ads. the people who matter most to you online For example, when you type an address in the To, Cc, or Bcc field of an email you're composing, Gmail will suggest addresses based on the people you contact most frequently. phone number If you add your phone number to your account, it can be used for different purposes across Google services, depending on your settings. For example, your phone number can be used to help you access your account if you forget your password, help people find and connect with you, and make the ads you see more relevant to you. Learn more payment information For example, if you add a credit card or other payment method to your Google Account, you can use it to buy things across our services, like apps in the Play Store. We may also ask for other information, like a business tax ID, to help process your payment. In some cases, we may also need to verify your identity and may ask you for information to do this. We may also use payment information to verify that you meet age requirements, if, for example, you enter an incorrect birthday indicating you’re not old enough to have a Google Account. Learn more devices For example, we can use information from your devices to help you decide which device you’d like to use to install an app or view a movie you buy from Google Play. We also use this information to help protect your account. Android device with Google apps Android devices with Google apps include devices sold by Google or one of our partners and include phones, cameras, vehicles, wearables, and televisions. These devices use Google Play Services and other pre-installed apps that include services like Gmail, Maps, your phone’s camera and phone dialer, text-to-speech conversion, keyboard input, and security features. Views and interactions with content and ads For example, we collect information about views and interactions with ads so we can provide aggregated reports to advertisers, like telling them whether we served their ad on a page and whether the ad was likely seen by a viewer. We may also measure other interactions, such as how you move your mouse over an ad or if you interact with the page on which the ad appears. synced with your Google Account Your Chrome browsing history is only saved to your account if you’ve enabled Chrome synchronization with your Google Account. Learn more services to make and receive calls or send and receive messages Examples of these services include: Google Hangouts, for making domestic and international calls Google Voice, for making calls, sending text messages, and managing voicemail Google Fi, for a phone plan Sensor data from your device Your device may have sensors that can be used to better understand your location and movement. For example, an accelerometer can be used to determine your speed and a gyroscope to figure out your direction of travel. Information about things near your device If you use Google’s Location services on Android, we can improve the performance of apps that rely on your location, like Google Maps. If you use Google’s Location services, your device sends information to Google about its location, sensors (like accelerometer), and nearby cell towers and Wi-Fi access points (like MAC address and signal strength). All these things help to determine your location. You can use your device settings to enable Google Location services. Learn more publicly accessible sources For example, we may collect information that’s publicly available online or from other public sources to help train Google’s language models and build features like Google Translate. protect against abuse For example, information about security threats can help us notify you if we think your account has been compromised (at which point we can help you take steps to protect your account). advertising and research services on their behalf For example, advertisers may upload data from their loyalty-card programs so that they can better understand the performance of their ad campaigns. We only provide aggregated reports to advertisers that don’t reveal information about individual people. deliver our services Examples of how we use your information to deliver our services include: We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube video We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account Photos and videos you upload to Google Photos are used to help you create albums, animations, and other creations that you can share. Learn more A flight confirmation email you receive may be used to create a “check-in” button that appears in your Gmail When you purchase services or physical goods from us, you may provide us information like your shipping address or delivery instructions. We use this information for things like processing, fulfilling, and delivering your order, and to provide support in connection with the product or service you purchase. ensure our services are working as intended For example, we continuously monitor our systems to look for problems. And if we find something wrong with a specific feature, reviewing activity information collected before the problem started allows us to fix things more quickly. make improvements For example, we use cookies to analyze how people interact with our services. And that analysis can help us build better products. For example, it may help us discover that it’s taking people too long to complete a certain task or that they have trouble finishing steps at all. We can then redesign that feature and improve the product for everyone. customized search results For example, when you’re signed in to your Google Account and have the Web & App Activity control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services. You can learn more here. You may also get customized search results even when you’re signed out. If you don’t want this level of search customization, you can search and browse privately or turn off signed-out search personalization. personalized ads You may also see personalized ads based on information from the advertiser. If you shopped on an advertiser's website, for example, they can use that visit information to show you ads. Learn more sensitive categories When showing you personalized ads, we use topics that we think might be of interest to you based on your activity. For example, you may see ads for things like " Cooking and Recipes " or " Air Travel.” We don’t use topics or show personalized ads based on sensitive categories like race, religion, sexual orientation, or health. And we require the same from advertisers that use our services. may link information Google Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer. Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites. For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic. Learn more safety and reliability Some examples of how we use your information to help keep our services safe and reliable include: Collecting and analyzing IP addresses and cookie data to protect against automated abuse. This abuse takes many forms, such as sending spam to Gmail users, stealing money from advertisers by fraudulently clicking on ads, or censoring content by launching a Distributed Denial of Service (DDoS) attack. The “last account activity” feature in Gmail can help you find out if and when someone accessed your email without your knowledge. This feature shows you information about recent activity in Gmail, such as the IP addresses that accessed your mail, the associated location, and the date and time of access. Learn more detect abuse When we detect spam, malware, illegal content, and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action. In certain circumstances, we may also report the violation to appropriate authorities. combine the information we collect Some examples of how we combine the information we collect include: When you’re signed in to your Google Account and search on Google, you can see search results from the public web, along with relevant information from the content you have in other Google products, like Gmail or Google Calendar. This can include things like the status of your upcoming flights, restaurant, and hotel reservations, or your photos. Learn more If you have communicated with someone via Gmail and want to add them to a Google Doc or an event in Google Calendar, Google makes it easy to do so by autocompleting their email address when you start to type in their name. This feature makes it easier to share things with people you know. Learn more The Google app can use data that you have stored in other Google products to show you personalized content, depending on your settings. For example, if you have searches stored in your Web & App Activity, the Google app can show you news articles and other information about your interests, like sports scores, based your activity. Learn more If you link your Google Account to your Google Home, you can manage your information and get things done through the Google Assistant. For example, you can add events to your Google Calendar or get your schedule for the day, ask for status updates on your upcoming flight, or send information like driving directions to your phone. Learn more your activity on other sites and apps This activity might come from your use of Google services, like from syncing your account with Chrome or your visits to sites and apps that partner with Google. Many websites and apps partner with Google to improve their content and services. For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics), or it might embed other content (such as videos from YouTube). These services may share information about your activity with Google and, depending on your account settings and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information. Learn more about how Google uses data when you use our partners ' sites or apps. partner with Google There are over 2 million non-Google websites and apps that partner with Google to show ads. Learn more specific Google services For example, you can delete your blog from Blogger or a Google Site you own from Google Sites. You can also delete reviews you’ve left on apps, games, and other content in the Play Store. rely on cookies to function properly For example, we use a cookie called ‘lbcs’ that makes it possible for you to open many Google Docs in one browser. Blocking this cookie would prevent Google Docs from working as expected. Learn more legal process, or enforceable governmental request Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to disclose user data. Respect for the privacy and security of data you store with Google underpins our approach to complying with these legal requests. Our legal team reviews each and every request, regardless of type, and we frequently push back when a request appears to be overly broad or doesn’t follow the correct process. Learn more in our Transparency Report. show trends When lots of people start searching for something, it can provide useful information about particular trends at that time. Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated
+
+[004] . Learn more specific partners For example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies. Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings. Learn more about these partners and how they use your information. servers around the world For example, we operate data centers located around the world to help keep our products continuously available for users. third parties For example, we process your information to report use statistics to rights holders about how their content was used in our services. We may also process your information if people search for your name and we display search results for sites containing publicly available information about you. appropriate safeguards For example, we may anonymize data, or encrypt data to ensure it can’t be linked to other information about you. Learn more ensure and improve For example, we analyze how people interact with advertising to improve the performance of our ads. Customizing our services For example, we may display a Google Doodle on the Search homepage to celebrate an event specific to your country.
+
+[005] and similar technologies
+
+[006] IP
+
+[007] Every device connected
+
+[008] the Internet is assigned a number known
+
+[009] an Internet protocol (IP) address
+
+[010] These numbers are usually assigned in geographic blocks. An IP address can often be used to identify the location from which a device is connecting to the Internet.
+
+[011] Personal information This
+
+[012] you provide to us which personally identifies you, such as your name, email address, or billing information, or other data that can be reasonably linked to such information by Google, such as information we associate with your Google Account
+
+===============================================================================
+VERSION: August 28, 2020 (20200828)
+PREVIOUS VERSION: March 31, 2020 (20200331)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20200828?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20200331-20200828?hl=en-US
+CHANGE FRAGMENTS: 1
+
+[001] Play Books
+
+===============================================================================
+VERSION: September 30, 2020 (20200930)
+PREVIOUS VERSION: August 28, 2020 (20200828)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20200930?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20200828-20200930?hl=en-US
+CHANGE FRAGMENTS: 6
+
+[001] Information you share
+
+[002] If you’re a G Suite user, control whom you share information with through your account on Google+.
+
+[003] Go to Information You Share
+
+[004] (like G Suite)
+
+[005] , such as the EU-U
+
+[006] S. and Swiss-U. S. Privacy Shield Frameworks.
+
+===============================================================================
+VERSION: February 4, 2021 (20210204)
+PREVIOUS VERSION: September 30, 2020 (20200930)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20210204?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20200930-20210204?hl=en-US
+CHANGE FRAGMENTS: 3
+
+[001] telephony
+
+[002] Google and
+
+[003] Google Hangouts, for making domestic and international calls
+
+===============================================================================
+VERSION: July 1, 2021 (20210701)
+PREVIOUS VERSION: February 4, 2021 (20210204)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20210701?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20210204-20210701?hl=en-US
+CHANGE FRAGMENTS: 2
+
+[001] including
+
+[002] G Suite
+
+===============================================================================
+VERSION: February 10, 2022 (20220210)
+PREVIOUS VERSION: July 1, 2021 (20210701)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20220210?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20210701-20220210?hl=en-US
+CHANGE FRAGMENTS: 25
+
+[001] privately using
+
+[002] in
+
+[003] helps
+
+[004] language
+
+[005] ,
+
+[006] when you use audio features
+
+[007] your weekend getaway or showtimes for movies playing
+
+[008] Sensor data from
+
+[009] device
+
+[010] advertisers
+
+[011] turn on Location History
+
+[012] want traffic predictions for
+
+[013] daily commute, or
+
+[014] save
+
+[015] YouTube Watch History
+
+[016] get better video suggestions
+
+[017] Control what others
+
+[018] about you
+
+[019] created
+
+[020] you use
+
+[021] us with customer
+
+[022] keeps
+
+[023] free
+
+[024] be
+
+[025] be
+
+===============================================================================
+VERSION: October 4, 2022 (20221004)
+PREVIOUS VERSION: February 10, 2022 (20220210)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20221004?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20220210-20221004?hl=en-US
+CHANGE FRAGMENTS: 2
+
+[001] You can also request to remove content from specific Google services based on applicable law.
+
+[002] And finally,
+
+===============================================================================
+VERSION: December 15, 2022 (20221215)
+PREVIOUS VERSION: October 4, 2022 (20221004)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20221215?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20221004-20221215?hl=en-US
+CHANGE FRAGMENTS: 3
+
+[001] Settings
+
+[002] Settings
+
+[003] How Google uses pattern recognition to recognize things like faces in photos
+
+===============================================================================
+VERSION: July 1, 2023 (20230701)
+PREVIOUS VERSION: December 15, 2022 (20221215)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20230701?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20221215-20230701?hl=en-US
+CHANGE FRAGMENTS: 3
+
+[001] an ad
+
+[002] when you’re browsing a site that shows ads served by Google
+
+[003] language
+
+===============================================================================
+VERSION: October 4, 2023 (20231004)
+PREVIOUS VERSION: July 1, 2023 (20230701)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20231004?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20230701-20231004?hl=en-US
+CHANGE FRAGMENTS: 1
+
+[001] Chrome & the Chrome Operating System
+
+===============================================================================
+VERSION: November 15, 2023 (20231115)
+PREVIOUS VERSION: October 4, 2023 (20231004)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20231115?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20231004-20231115?hl=en-US
+CHANGE FRAGMENTS: 0
+
+(No text in this category detected after normalization.)
+
+===============================================================================
+VERSION: January 15, 2024 (20240115)
+PREVIOUS VERSION: November 15, 2023 (20231115)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20240115?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20231115-20240115?hl=en-US
+CHANGE FRAGMENTS: 14
+
+[001] about your location
+
+[002] general
+
+[003] Your
+
+[004] can be determined with varying degrees of accuracy by
+
+[005] and
+
+[006] advertising
+
+[007] Firefox 1
+
+[008] 0
+
+[009] ; Windows NT 5. 1
+
+[010] Firefox 1
+
+[011] 0
+
+[012] ; Windows NT 5. 1
+
+[013] advertisers
+
+[014] animations
+
+===============================================================================
+VERSION: February 8, 2024 (20240208)
+PREVIOUS VERSION: January 15, 2024 (20240115)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20240208?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20240115-20240208?hl=en-US
+CHANGE FRAGMENTS: 1
+
+[001] Bard
+
+===============================================================================
+VERSION: March 4, 2024 (20240304)
+PREVIOUS VERSION: February 8, 2024 (20240208)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20240304?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20240208-20240304?hl=en-US
+CHANGE FRAGMENTS: 12
+
+[001] what
+
+[002] your information is used
+
+[003] uses
+
+[004] combine
+
+[005] among
+
+[006] access, use, preservation, or
+
+[007] Meet
+
+[008] as required or permitted by law
+
+[009] combine the information we collect
+
+[010] Some examples of how we combine the information we collect include:
+
+[011] The Google app can use data that you have stored in other Google products to show you personalized content, depending on your settings. For example, if you have searches stored in your Web & App Activity, the Google app can show you news articles and other information about your interests, like sports scores, based your activity. Learn more
+
+[012] If you link your Google Account to your Google Home, you can manage your information and get things done through the Google Assistant. For example, you can add events to your Google Calendar or get your schedule for the day, ask for status updates on your upcoming flight, or send information like driving directions to your phone. Learn more
+
+===============================================================================
+VERSION: March 28, 2024 (20240328)
+PREVIOUS VERSION: March 4, 2024 (20240304)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20240328?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20240304-20240328?hl=en-US
+CHANGE FRAGMENTS: 0
+
+(No text in this category detected after normalization.)
+
+===============================================================================
+VERSION: September 16, 2024 (20240916)
+PREVIOUS VERSION: March 28, 2024 (20240328)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20240916?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20240328-20240916?hl=en-US
+CHANGE FRAGMENTS: 0
+
+(No text in this category detected after normalization.)
+
+===============================================================================
+VERSION: July 1, 2025 (20250701)
+PREVIOUS VERSION: September 16, 2024 (20240916)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20250701?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20240916-20250701?hl=en-US
+CHANGE FRAGMENTS: 2
+
+[001] Location History
+
+[002] more useful
+
+===============================================================================
+VERSION: April 2, 2026 (20260402)
+PREVIOUS VERSION: July 1, 2025 (20250701)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20260402?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20250701-20260402?hl=en-US
+CHANGE FRAGMENTS: 13
+
+[001] in
+
+[002] account
+
+[003] Google Analytics
+
+[004] Google Analytics
+
+[005] a Google Analytics customer
+
+[006] choose to enable Google to
+
+[007] ad
+
+[008] collected
+
+[009] may
+
+[010] relies on first-party cookies
+
+[011] which means the cookies are set by the Google Analytics customer
+
+[012] third-party
+
+[013] . For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic
+
+===============================================================================
+VERSION: May 26, 2026 (20260526)
+PREVIOUS VERSION: April 2, 2026 (20260402)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20260526?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20260402-20260526?hl=en-US
+CHANGE FRAGMENTS: 30
+
+[001] control
+
+[002] collect
+
+[003] When
+
+[004] Voice
+
+[005] audio information
+
+[006] by
+
+[007] activity controls
+
+[008] And if
+
+[009] Web & App Activity setting is enabled
+
+[010] is
+
+[011] customize
+
+[012] personalized
+
+[013] customized
+
+[014] customized
+
+[015] Decide what
+
+[016] activity you’d like saved
+
+[017] account
+
+[018] searches and
+
+[019] like faster searches and more helpful app and content recommendations
+
+[020] , such as apps you install and use on Android,
+
+[021] Controls
+
+[022] personalization
+
+[023] If
+
+[024] account’s Web & App Activity
+
+[025] customized search results
+
+[026] For example, when you’re signed in to your Google Account and have the Web & App Activity control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services. You can learn more here. You may also get customized search results even when you’re signed out. If you don’t want this level of search customization, you can search and browse privately or turn off signed-out search personalization.
+
+[027] Learn more
+
+[028] Web & App Activity
+
+[029] Voice and audio information
+
+[030] For example, you can choose whether you want Google to save an audio recording to your Google Account when you interact with Google Search, Assistant, and Maps. When your device detects an audio activation command, like “Hey Google,” Google records your voice and audio plus a few seconds before the activation. Learn more
+
+===============================================================================
+VERSION: October 1, 2026 (20261001)
+PREVIOUS VERSION: May 26, 2026 (20260526)
+NEW VERSION SOURCE: https://policies.google.com/privacy/archive/20261001?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20260526-20261001?hl=en-US
+CHANGE FRAGMENTS: 0
+
+(No text in this category detected after normalization.)
+
+===============================================================================
+VERSION: October 16, 2026 (20261016)
+PREVIOUS VERSION: October 1, 2026 (20261001)
+NEW VERSION SOURCE: https://policies.google.com/privacy?hl=en-US
+OFFICIAL GOOGLE COMPARISON: https://policies.google.com/privacy/archive/20261001-20261016?hl=en-US
+CHANGE FRAGMENTS: 4
+
+[001] and
+
+[002] across
+
+[003] Learn more
+
+[004] Learn more
+
